@@ -1,6 +1,6 @@
 # Hi there 👋 I am Ayush Kumar 
 
-<br>
+<br><br>
 - 🔭 I’m currently working on JS projects
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate on Frontend projects
