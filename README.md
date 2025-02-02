@@ -2,7 +2,10 @@
 
 **B.tech in CSE with data science student at Newton School of technology Rishihood university , aspiring tech enthusiast , entrepreneurially-inclined , Tech head**
 
-
+- 🔭 I’m currently working on JS projects
+- 🌱 I’m currently learning JS
+- 👯 I’m looking to collaborate on Frontend projects
+-  📫 How to reach me: @kumarayushsharma3@gmail.com
 <!--
 **Ayush-kr-giga/Ayush-kr-giga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
