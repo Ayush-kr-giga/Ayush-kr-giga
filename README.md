@@ -23,11 +23,11 @@
 
 <h2 align="center">Github stats</h2>
 
-<div align ="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-kr-giga&layout=compact&theme=dracula)
 &nbsp;&nbsp;
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-kr-giga&theme=dark&show_icons=true)
-</div>
+
 <!--
 **Ayush-kr-giga/Ayush-kr-giga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
