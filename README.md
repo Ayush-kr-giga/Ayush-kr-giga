@@ -18,7 +18,7 @@
   &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
 </div>
-<br><br><br>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-kr-giga&theme=dark)
 
 <h2 align="center">Github stats</h2>
