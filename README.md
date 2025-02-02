@@ -8,7 +8,8 @@
 -  📫 How to reach me: @kumarayushsharma3@gmail.com
 
 
-<h3 align="center"> My Tech Arsenal </h3>
+<h2 align="center"> My Tech Arsenal </h2>
+<div align="center">
 <a href="https://python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -16,8 +17,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
- 
-
+</div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-kr-giga&theme=dark)
 
