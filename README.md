@@ -9,7 +9,7 @@
 
 
 
-!([link](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
+![Python]([images/example.png](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-kr-giga&theme=dark&show_icons=true)
 <!--
