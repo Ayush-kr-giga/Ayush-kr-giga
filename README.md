@@ -1,14 +1,14 @@
 # Hi there 👋 I am Ayush Kumar 
 
-**B.tech in CSE with data science student at Newton School of technology Rishihood university , aspiring tech enthusiast , entrepreneurially-inclined , Tech head**
-
+<br><br>
 - 🔭 I’m currently working on JS projects
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate on Frontend projects
 -  📫 How to reach me: @kumarayushsharma3@gmail.com
-
+<br><br><br>
 
 <h2 align="center"> My Tech Arsenal </h2>
+<br>
 <div align="center">
 <a href="https://python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a> 
 &nbsp;&nbsp;
@@ -23,11 +23,11 @@
 
 <h2 align="center">Github stats</h2>
 
-<div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-kr-giga&layout=compact&theme=dracula)
 &nbsp;&nbsp;
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-kr-giga&theme=dark&show_icons=true)
-</div>
+
 <!--
 **Ayush-kr-giga/Ayush-kr-giga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
