@@ -7,6 +7,10 @@
 - 👯 I’m looking to collaborate on Frontend projects
 -  📫 How to reach me: @kumarayushsharma3@gmail.com
 
+
+
+![Name]([link](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
+
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-kr-giga&theme=dark&show_icons=true)
 <!--
 **Ayush-kr-giga/Ayush-kr-giga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
