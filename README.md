@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋 I am Ayush Kumar 
+
+**B.tech in CSE with data science student at Newton School of technology Rishihood university , aspiring tech enthusiast , entrepreneurially-inclined , Tech head**
+
 
 <!--
 **Ayush-kr-giga/Ayush-kr-giga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
