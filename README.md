@@ -55,18 +55,17 @@ const ayush = {
 
 ## 🌐 Connect
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ayush-kumar-27b814323/)">
+  <a href="https://www.linkedin.com/in/ayush-kumar-27b814323/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:ayush.kumar2024@nst.rishihood.edu.in">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="[https://leetcode.com/YOUR_LEETCODE](https://leetcode.com/u/Ayush_giga/)">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+  <a href="https://leetcode.com/u/Ayush_giga/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="48" />
   </a>
 </p>
 
----
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
