@@ -1,55 +1,76 @@
-# Hi there 👋 I am Ayush Kumar 
+<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Builder</h3>
 
-<br><br>
-- 👯 I’m looking to collaborate on Frontend projects
--  📫 How to reach me: @kumarayushsharma3@gmail.com
-<br><br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayush-kr-giga&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<h2 align="center"> My Tech Arsenal </h2>
-<br>
-<div align="center">
-<a href="https://python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a> 
-&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>
-  &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
-  &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
-</div>
+---
 
-<br><br><br>
+## 💡 About Me
+- 🎓 Computer Science Undergraduate  
+- 🧠 Exploring **AI, LLMs & Automation (n8n, RAG, APIs)**  
+- ⚡ Building **real-world full stack apps with React & Tailwind**  
+- 🏗️ Currently working on: *AI-powered tools & dashboards*  
+- 🎯 Goal: Become a **top-tier full stack + AI engineer**
 
-<h2 align="center">A little bit of consistency</h2>
+---
 
-<div align="center">
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,git,github,tailwind,firebase" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-kr-giga&theme=dark)
+---
 
+## 📊 GitHub Stats
 
-</div>
-<br><br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-kr-giga&show_icons=true&theme=tokyonight" />
+</p>
 
-<h2 align="center">Github stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-kr-giga&layout=compact&theme=tokyonight" />
+</p>
 
+---
 
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-kr-giga&layout=compact&theme=dracula)
-&nbsp;&nbsp;
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-kr-giga&theme=dark&show_icons=true)
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ayush-kr-giga&theme=tokyonight" />
+</p>
 
-</div>
-<!--
-**Ayush-kr-giga/Ayush-kr-giga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Ayush-kr-giga">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-kr-giga&repo=YOUR_REPO_1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Ayush-kr-giga">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-kr-giga&repo=YOUR_REPO_2&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+## ✨ Fun Section
+- 🧩 I love solving DSA problems  
+- 🏃‍♂️ 10km Marathon Finisher  
+- 🎮 Into esports & gaming  
+- 🛠️ Building startups & side projects  
+
+---
+
+<p align="center">
+  ⭐️ From <b>Ayush-kr-giga</b> — Building, Learning & Growing 🚀
+</p>
