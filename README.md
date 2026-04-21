@@ -22,9 +22,8 @@
 
 ~~~js
 const ayush = {
-  education: "B.Tech Data Science @ NST (8.6 CGPA)",
+  education: "B.Tech Data Science @ NST ",
   role: "Full Stack Developer & AI Engineer",
-  dsa: "300+ LeetCode problems solved",
   focus: ["LLMs", "RAG", "AI Applications", "Full Stack Systems"],
   currentWork: "Building AI tools & scalable dashboards"
 }
@@ -32,21 +31,6 @@ const ayush = {
 
 ---
 
-## 🚀 Projects
-
-### 🔹 AskMyNotes
-- Built a **RAG-based PDF Q&A system** using LangChain + FAISS  
-- Enabled context-aware answers with reduced hallucination  
-- Tech: Python, Streamlit, FAISS, Groq API  
-
----
-
-### 🔹 CareerFlow
-- Full-stack **job tracking + AI resume analyzer**  
-- JWT auth, analytics dashboard, Gemini API integration  
-- Tech: React, Node.js, MongoDB, Tailwind  
-
----
 
 ## ⚙️ Tech Stack
 <p align="center">
@@ -69,22 +53,15 @@ const ayush = {
 
 ---
 
-## 🔥 Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayush-kr-giga&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ayush-kumar-27b814323/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:ayush.kumar2024@nst.rishihood.edu.in">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE">
+  <a href="[https://leetcode.com/YOUR_LEETCODE](https://leetcode.com/u/Ayush_giga/)">
     <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
 </p>
