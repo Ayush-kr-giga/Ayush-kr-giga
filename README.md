@@ -25,7 +25,7 @@ const ayush = {
   education: "B.Tech Data Science @ NST ",
   role: "Full Stack Developer & AI Engineer",
   focus: ["LLMs", "RAG", "AI Applications", "Full Stack Systems"],
-  currentWork: "Building AI tools & scalable dashboards"
+  currentWork: "Building AI tools & scalable solutions"
 }
 ~~~
 
