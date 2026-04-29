@@ -31,7 +31,6 @@ const ayush = {
 
 ---
 
-
 ## ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,tailwind,nextjs,git" />
@@ -53,6 +52,15 @@ const ayush = {
 
 ---
 
+## 🏅 Achievements
+<p align="center">
+  <a href="https://holopin.io/@ayushkrgiga">
+    <img src="https://holopin.me/ayushkrgiga" alt="Holopin Badges" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-kumar-27b814323/" target="_blank">
@@ -65,7 +73,6 @@ const ayush = {
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="48" />
   </a>
 </p>
-
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
